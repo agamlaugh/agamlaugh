@@ -7,6 +7,7 @@ Final-year Computer Science student at the **University of Edinburgh** (BSc Hons
 - **Distributed P2P node (C++17)**: an asynchronous peer-to-peer node with a custom wire protocol, written test-first.
 - **Interview prep**: algorithms and data structures in Python.
 - **Dissertation**: an educational game (4th year).
+- **Distributed Systems coursework (group project)**: building a parameter server for distributed ML as part of a team: sharded key-value storage, replication and fault tolerance.
 
 ## Projects
 
